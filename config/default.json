@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "botedzeAuthKey",
+  "mongoUri": "mongodb+srv://botedze:admin123@cluster0.oxmssrg.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
